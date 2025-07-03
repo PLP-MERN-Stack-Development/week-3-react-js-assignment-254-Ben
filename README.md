@@ -41,6 +41,8 @@ yarn dev
 ```
 
 The app will be available at [http://localhost:5173](http://localhost:5173) by default.
+   OR
+   View it live on https://my-task-manager-cyan.vercel.app/
 
 ### Building for Production
 
